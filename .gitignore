@@ -1,0 +1,34 @@
+# ======= THƯ MỤC BUILD VÀ FILE TRUNG GIAN =======
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ======= FILE & THƯ MỤC CẤU HÌNH CÁ NHÂN CỦA VISUAL STUDIO =======
+.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ======= FILE LOG VÀ KẾT QUẢ =======
+[Ll]og/
+[Ll]ogs/
+[Tt]est[Rr]esult*/
+*.trx
+
+# ======= FILE TẠM VÀ RÁC CỦA HỆ ĐIỀU HÀNH =======
+Thumbs.db
+ehthumbs.db
+.DS_Store
+*.tmp
+*.bak
+*.swp
+
+# ======= NHỮNG FILE TẠO RA BỞI CÁC EXTENSION (NẾU CÓ) =======
+*.DotSettings.user
+*.plugin.js
